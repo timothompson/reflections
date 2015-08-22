@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create a git instance. In order to commit files, you need to initialize first.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It differs from the WD, because it means files are added to be staged to commit. It differs from repository because the files aren't committed.
+
+It allows you a place to store files before you commit.
