@@ -23,3 +23,6 @@ How do the diagrams help visualize the branch structure?
 What is the result of merging 2 branches together?  Why do we represent it in the diagram the way we do?
 
 - The commits are all in the same timeline and the branches are joined, so we join them in the diagram.
+
+What are the pros and cons of Git's automatic merging vs. aways doing merges manually?
+Pro: It can save time. Con: It may make a mistake.
