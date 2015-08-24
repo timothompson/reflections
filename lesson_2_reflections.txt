@@ -19,3 +19,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help visualize the branch structure?
 
 - They allow us to see when a new branch starts and goes on another path.
+
+What is the result of merging 2 branches together?  Why do we represent it in the diagram the way we do?
+
+- The commits are all in the same timeline and the branches are joined, so we join them in the diagram.
