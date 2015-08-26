@@ -11,3 +11,7 @@ Describe the differences between forks, clones and branches. When would you use 
 - Forks: For cloning something in GitHub. Gives credit to original author. Use when you want to spin off an open source project.
 - Clone: For making a copy of something. No credit given unless you explicitly do it yourself.
 - Branch: For making a version of something designed to be merged back into the master copy. Use when you want to fix a bug or experiment.
+
+what is the benefit of having a copy of the last know state of the remote stored locally?
+
+- If you're traveling, you can review the changes.
